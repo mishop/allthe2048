@@ -1,6 +1,10 @@
 - url: http://gabrielecirulli.github.io/2048/
   name: Original
   author: Gabriele Cirulli
+  
+- url: http://2048alphabet.com/
+  name: 2048 Alphabet
+  author: Misho M. Petkovic
 
 - url: http://ov3y.github.io/2048-AI/
   name: 2048 AI
@@ -209,3 +213,7 @@
 - url: http://www.twitch.tv/twitchplayswebgames
   name: Twitch Plays 2048
   author: Twitch
+  
+- url: http://suki.ipb.ac.rs/11/
+  name: 11 game
+  author: Milovan Suvakov
