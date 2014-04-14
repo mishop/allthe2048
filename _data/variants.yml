@@ -261,3 +261,15 @@
 - url: http://games.usvsth3m.com/2048/roman-numerals-edition-33/
   name: "2048: Roman numerals edition"
   author: Daniel Barber
+  
+- url: http://2048alphabet.com/ar/
+  name: 2048 أَبْجَدِيَّة عَرَبِيَّة - The Arabic alphabet game
+  author: Misho M. Petkovic
+
+- url: http://2048alphabet.com/de/
+  name: 2048 Deutsch alphabet
+  author: Misho M. Petkovic
+  
+- url: http://2048alphabet.com/gr/
+  name: 2048 Ελληνικό αλφάβητο
+  author: Misho M. Petkovic
